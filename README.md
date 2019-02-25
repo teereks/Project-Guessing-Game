@@ -19,3 +19,6 @@ To try out this project follow these steps:
 ```
 
 You can also run `bash guessinggame.sh` to start playing the included game
+
+
+**&copy; T.T.**
